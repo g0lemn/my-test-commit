@@ -52,4 +52,4 @@ function createPost2(post, callback) {
 
 // // Test #3 : With callback function
 // // This test shows how a callback can affect 
-//createPost2({title: 'Post Three', body: 'This post is three'}, getPosts);
+// createPost2({title: 'Post Three', body: 'This post is three'}, getPosts);
